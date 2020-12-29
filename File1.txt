@@ -1,3 +1,5 @@
 Welcome to git demo...
 
 Change to test - simple push on remote master 
+
+Change to chcek pull operation
