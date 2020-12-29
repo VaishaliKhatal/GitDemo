@@ -1,7 +1,11 @@
 Welcome to git demo...
 
-Change 1 to test - simple push on remote master 
 
-Change 2 to chcek pull operation
+Change 1 ->to test - simple push on remote master 
 
-Change 3 to test rebase with remote master and localmaster using rebase , this change is for WI10 by team mate
+Change 2 ->to chcek pull operation
+
+Change 3 ->to test rebase with remote master and localmaster using rebase , this change is for WI10 by team mate
+
+Change 4 ->on local master for WI11 to test rebase with conflict
+
