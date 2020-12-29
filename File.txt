@@ -1,11 +1,13 @@
 Hello World!!
 
-Change 1 -> for Feature login. Updated to fix bug1.
+Change 1 -> For Feature login. Updated to fix bug1.
 
-Change 2 -> for bug1
+Change 2 -> For bug1
 
-Change 3 -> fix bug2
+Change 3 -> Fix bug2
 
-Change 4 -> for WI4 fix by team mate
+Change 4 -> For WI4 fix by team mate
+
+Change 5 -> Added caps in each line first letter and chnage for CR1 by team mate to test rebase
 
 
