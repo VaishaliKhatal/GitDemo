@@ -1,6 +1,6 @@
 Hello World!!
 
-Change 1 -> For Feature login. Updated to fix bug1.
+Change 1 -> for Feature login. Updated to fix bug1. Enahance ment in login feature
 
 Change 2 -> For bug1
 
@@ -9,5 +9,7 @@ Change 3 -> Fix bug2
 Change 4 -> For WI4 fix by team mate
 
 Change 5 -> Added caps in each line first letter and chnage for CR1 by team mate to test rebase
+
+Chnage 6 -> Enhancement 1 change to test rebase 
 
 
